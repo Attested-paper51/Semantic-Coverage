@@ -21,9 +21,3 @@ An AI system that:
 - Identified critical testing gaps in 76% of functions
 - Outperformed traditional metrics in highlighting untested critical logic
 ```
-
-### Option 2: Just the Paper (Still Good)
-If you don't have time for the GitHub cleanup, submit the paper with a strong cover statement:
-
-**In the "Additional Documents" field:**
-```
